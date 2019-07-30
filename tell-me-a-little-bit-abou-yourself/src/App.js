@@ -19,10 +19,6 @@ const pages = [
   'https://i.ibb.co/r2XtJdC/back-cover2.jpg',
 ]
 
-// AKIAYUV3XGIAROQ3RAAG
-// RMwnAMoJzvvAHeIga5Dp9cXVTloAdgL49ih1Uvf2
-// arn:aws:iam::594172916225:user/imgix
-
 function App() {
   const index = useRef(0)
   const [props, set] = useSprings(pages.length, i => ({ x: i * window.innerWidth, sc: 1, display: 'block' }))
