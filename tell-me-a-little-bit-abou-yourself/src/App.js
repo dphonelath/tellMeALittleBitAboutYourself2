@@ -7,15 +7,15 @@ import './App.css';
 const pages = [
   'https://i.ibb.co/vhmm9VD/TMLBAY-Cover.jpg',
   'https://i.ibb.co/hYJBzN8/Deep-Breaths.jpg',
+  'https://i.ibb.co/GPjL8QP/Tell-me-a-little-bit-about-yourself.jpg',
   'https://i.ibb.co/CQw1k9r/See-me-or-CV2.jpg',
-  'https://i.ibb.co/44q2RzV/see-me-or-CV2.jpg',
-  'https://i.ibb.co/TPthMwB/analogue-soul.jpg',
-  'https://i.ibb.co/8jrn7pp/weaknesses.jpg',
-  'https://i.ibb.co/jM2rkVN/lunch-break-interlude.jpg',
-  'https://i.ibb.co/tmbkLsV/music-to-my-career.jpg',
-  'https://i.ibb.co/hZD6hJn/5-year-plan.jpg',
-  'https://i.ibb.co/FXkH11B/salary-negotiation.jpg',
-  'https://i.ibb.co/r2XtJdC/back-cover2.jpg',
+  'https://i.ibb.co/2Y9byxx/Analogue-Soul.jpg',
+  'https://i.ibb.co/hm2p6KP/Weaknesses.jpg',
+  'https://i.ibb.co/R0QL7JN/Lunch-Break-interlude.jpg',
+  'https://i.ibb.co/3SvjCNc/Music-to-my-career.jpg',
+  'https://i.ibb.co/CQrx48D/5-year-plan.jpg',
+  'https://i.ibb.co/s2jqYkb/Salary-Negotiation.jpg',
+  'https://i.ibb.co/yYCdnty/Back-Cover2.jpg',
 ]
 
 function App() {
