@@ -5,10 +5,9 @@ import { useGesture } from 'react-use-gesture';
 import './App.css';
 
 const pages = [
-  'https://i.ibb.co/ySjrF80/TMLBAY-cover.jpg',
-  'https://i.ibb.co/Mfjj7sR/deep-breaths.jpg',
-  'https://i.ibb.co/YtDkYPr/interview.jpg',
-  'https://i.ibb.co/B2pCMxv/tell-me-a-little-bit-about-yourself.jpg',
+  'https://i.ibb.co/vhmm9VD/TMLBAY-Cover.jpg',
+  'https://i.ibb.co/hYJBzN8/Deep-Breaths.jpg',
+  'https://i.ibb.co/CQw1k9r/See-me-or-CV2.jpg',
   'https://i.ibb.co/44q2RzV/see-me-or-CV2.jpg',
   'https://i.ibb.co/TPthMwB/analogue-soul.jpg',
   'https://i.ibb.co/8jrn7pp/weaknesses.jpg',
